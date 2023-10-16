@@ -6,8 +6,7 @@
 - 🔭 I’m currently working on developing Discord bots, a journey I embarked on in 2019 and continue to evolve in.  
   
 
-- 
-🌱 I’m currently delving deeper into Discord.js (DJS) and bot development.  
+- 🌱 I’m currently delving deeper into Discord.js (DJS) and bot development.  
   
 
 - ❓ Feel free to ask me anything about JavaScript, DJS, or bot development, and I'll be happy to share my knowledge.  
